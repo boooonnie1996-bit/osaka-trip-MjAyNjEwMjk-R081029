@@ -1,5 +1,5 @@
 /* 離線用：第一次打開時把頁面和圖片存進手機；之後沒網路也能開。更新頁面時把 VERSION 改掉。 */
-const VERSION="osaka-walk-v11";
+const VERSION="osaka-walk-v14";
 const FILES=["./","index.html","manifest.webmanifest",
  "img/banner-pink.jpg","img/banner-lilac.jpg","img/icon-180.png","img/icon-192.png","img/icon-512.png",
  "img/me-d1.png","img/me-d2.png","img/me-d3.png","img/me-d4.png","img/me-d5.png","img/me-d6.png","img/kitty.png","img/cinnamoroll.png","img/kuromi.png","img/pompompurin.png","img/piano.png","img/pochacco.png","img/keroppi.png","img/usahana.png"];
